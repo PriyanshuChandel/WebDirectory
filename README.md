@@ -1,2 +1,2 @@
 # PriyanshuChandel.github.io
-This is sinmple webpage for website directory 
+This is simple webpage for website directory 
