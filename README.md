@@ -11,7 +11,7 @@ The HTML page has a dark background and is centered. It includes a table with tw
 # Websites
 Here is a list of websites included in the HTML page:
 
-- Python course for beginner: a YouTube playlist for beginners to learn Python.
+- * Python course for beginner: a YouTube playlist for beginners to learn Python.
 - Django Framework for beginner: a YouTube playlist for beginners to learn Django framework for web development.
 - Govt schemes: a website where you can check all government schemes.
 - Govt Courses: a website where you can find technical courses and other skills offered by the government.
