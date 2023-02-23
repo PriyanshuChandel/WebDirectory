@@ -21,4 +21,4 @@ Here is a list of websites included in the HTML page:
 - Internet calls: a website where you can make internet calls, video calls, and send text messages.
 - iPhones recovery: a website that can be useful to fix iPhone software issues.
 - Ninite: a website that can install many apps in one shot.
-- Note: The website links were last checked on 2023-02-23.
+Note: The website links were last checked on 2023-02-23.
